@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 
-package cena_filosofos;
+package cenaFilosofos;
 
 /**
  *
  * @author Stream
  */
-public class Cena_Filosofos {
+public class CenaFilosofos {
 
     /**
      * @param args the command line arguments
