@@ -8,7 +8,7 @@ package cenaFilosofos;
 
 /**
  *
- * @author Stream
+ * @author Joaquin Pereira Chapel
  */
 public class CenaFilosofos {
 
